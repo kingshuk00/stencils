@@ -1,0 +1,16 @@
+# boundary-condition order
+#     ┌───┐
+#     │ 2 │
+# ┌───┼───┼───┐
+# │ 3 │ x │ 1 │
+# └───┼───┼───┘
+#     │ 0 │
+#     └───┘
+
+procdim 2 1
+bc 273 273 473 473
+ic 300
+procmem 0.0005
+niters 40
+show 10
+xfermem 128.0
