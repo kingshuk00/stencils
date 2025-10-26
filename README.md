@@ -1,2 +1,2 @@
 # stencils
-Modified stencil codes for variour purposes
+Modified stencil codes for various purposes
